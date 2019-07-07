@@ -1,0 +1,9 @@
+
+.col {
+	color:green;
+	margin-top:30px;
+}
+.col:hover{
+	color: white;
+	background: green;
+}
